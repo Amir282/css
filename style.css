@@ -1,0 +1,48 @@
+body {
+  background-color: rgb(196, 51, 233);
+}
+
+h1 {
+  color: rgb(248, 86, 221);
+  font-family:verdana;
+  text-align: center;
+  border: 10px inset rgba(184, 18, 170, 0.527);
+        margin: 20px;
+        
+}
+
+p {
+  font-family: verdana;
+  font-size: 16px;
+  font-weight: bold;
+        font-style: normal;
+        
+
+  
+}
+
+#para1 {
+  text-align: center;
+  color: rgb(95, 230, 82);
+  border: 10px double rgb(9, 153, 81);
+        margin: 20px;
+  
+}
+
+.box-5 {
+  border: 5px dotted orange;
+}
+#para2{
+  color: rgb(160, 58, 18);
+
+
+}
+
+#para3{
+  color: rgb(160, 58, 18);
+
+
+}
+
+
+
